@@ -1,7 +1,3 @@
-### 👋 Hi there, I am Roberto Gómez
-
----
-
 I am a passionate software engineer mostly focused on backend and devops with more than 5 years of experience.
 
 I started in 2015 developing internal applications for a financial department, but, a few years later, I became interested in microservices.
