@@ -31,6 +31,7 @@ I've configured CI/CD pipelines using Jenkins, Azure DevOps, and CircleCI. For p
 ## Featured Projects
 
 - [GraphQL Service template](https://github.com/rogomdi/graphql-service): Template repository to create a GraphQL service
+- [Basic personal website](https://github.com/rogomdi/website): Personal website
 
 ## Let's Collaborate!
 
