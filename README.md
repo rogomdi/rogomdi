@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Roberto Gómez
 
-I'm a passionate software engineer with over 5 years of experience, specializing in backend development and DevOps.
+I'm a Senior Backend Software Engineer and Technical Lead with 11+ years of experience designing and evolving cloud-native services. I currently work at BASF, specializing in Java and Spring Boot microservices, cloud platforms, Kubernetes, and DevOps.
 
 ## Backend Development
 
